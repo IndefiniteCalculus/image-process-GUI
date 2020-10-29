@@ -17,4 +17,4 @@ The image processing methods supported so far has:
 rotate, scale, gray(if your image is RGB image), binary, threshold, some noise remove filters, some image inhance methods, morphological transform(with adjustable parameters).
 
 # Unsolved bug
-There bug I can't solved here is, in some accidental time, the program might stuck and exit, I can't figure out why. I anticipate it might cause by one of component tkinter, but I hadn't read the source code of tkinter yet to comfirm my doubts.
+There is a bug I can't solved here, in some accidental time, the program might stuck and exit, I can't figure out why. I anticipate it might cause by one of component tkinter, but I hadn't read the source code of tkinter yet to comfirm my doubts.
