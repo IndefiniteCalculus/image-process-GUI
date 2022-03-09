@@ -1,5 +1,5 @@
 # Image-process-GUI
-This project is a final project of "Digital Image Processing". Aim to process the image in an easy and simple way, the options include classic image processing methods such as grayscale, thresholding, histogram equalization, various filters and so on. Each stage of image during the processing can be displayed as well.The user can also undo the previous operation. The project might be helpful for some teaching purpose, to show what happened to the image during the processing.
+This project is a final project of "Digital Image Processing". It aims to process the image in an easy and simple way. The options include many classic digital image processing methods such as grayscale, thresholding, histogram equalization, various filters and so on. Each stage of image during the processing can be displayed as well.The user can also undo the previous operation. The project might be helpful for some teaching purpose, to show what happened to the image during the processing.
 
 # Requires
 The code should be compiled by python 3.7, make sure you had installed opencv-python and  tkinter to run the code.
